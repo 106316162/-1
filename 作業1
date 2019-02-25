@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+	<table border="1" width="60%" height="180px">
+		<tr>
+			<td>照片</td>
+			<td>姓名</td>
+			<td>學號</td>
+			<td>年齡</td>
+		</tr>
+		<tr>
+			<td><img src="C:\Users\user\Desktop" width="20" height="20"></td>
+			<td>連灝恩</td>
+			<td>106316162</td>
+			<td>19</td>
+		</tr>
+<body>
+	
+</body>
+</html>
